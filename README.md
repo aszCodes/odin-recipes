@@ -1,5 +1,5 @@
 <a href="https://dadalober.github.io/odin-recipes/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Preview-%2300b300?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Preview" />
+  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-2b2b2b?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Live Preview" />
 </a>
 
 # Odin Recipes
