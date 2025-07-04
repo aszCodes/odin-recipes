@@ -1,9 +1,11 @@
 # Odin Recipes
 
 ## Project Overview
+
 This project is a simple recipe website featuring common dishes found in the Philippines. It showcases traditional Filipino recipes with detailed ingredient lists and step-by-step cooking instructions. The project demonstrates fundamental HTML structure and semantic markup using only plain HTML without CSS styling.
 
 ## Project Structure
+
 ```
 odin-recipes/
 ├── index.html              # Main homepage with recipe links
@@ -15,25 +17,18 @@ odin-recipes/
 ```
 
 ## What I Learned
+
 - **HTML Structure**: How to create a well-organized HTML document with proper semantic markup
 - **List Elements**: The difference between `<ul>` (unordered lists) and `<ol>` (ordered lists) and when to use each
 - **Navigation**: How to link between multiple HTML pages using anchor tags
 - **Content Organization**: Using headings (h1, h2, h3) to create a logical content hierarchy
 - **File Structure**: Organizing a multi-page website with proper folder structure
 
-## Contributing
-This is a learning project, but feedback and suggestions are welcome! Feel free to:
-- Open an issue for bugs or suggestions
-- Submit a pull request with improvements
-- Share your thoughts on the implementation
-
-## License
-This project is open source and available under the MIT License.
-
 ## Contact
+
 John Miller Lorenzo - johnmillerlorenzo@gmail.com  
 Project Link: https://dadalober.github.io/odin-recipes/
 
 ---
 
-This project was created as part of The Odin Project curriculum to demonstrate fundamental HTML skills and semantic markup. It showcases the ability to structure content using lists, headings, and proper HTML elements.s
+This project was created as part of The Odin Project curriculum to demonstrate fundamental HTML skills and semantic markup. It showcases the ability to structure content using lists, headings, and proper HTML elements.
